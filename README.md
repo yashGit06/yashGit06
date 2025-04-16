@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashGit06
 - 👀 I’m interested in working on new technlogies.
-- 🌱 I’m currently learning Angular 12
+- 🌱 Angular Devloper
 - 📫 Please reach via mail : yashwantkumarsahu2014@gmail.com or LinkedIn : https://www.linkedin.com/in/yashwant06/
 
 <!---
